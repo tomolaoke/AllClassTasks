@@ -1,5 +1,3 @@
-//Module6JavaIVAssignmentDay21
-
 import java.util.Arrays;
 import java.util.List;
 
